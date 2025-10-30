@@ -25,7 +25,7 @@ It’s a fully responsive *Landing Page* built using *HTML and CSS*, designed to
 ---
 
 ### 🔗 Live Demo
-> [Deployed on Vercel](#) — ()
+> [Deployed on Vercel](#) — (https://codsoft-webdev-8b3u.vercel.app/)
 
 ---
 
