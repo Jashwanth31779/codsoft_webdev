@@ -80,10 +80,6 @@ ul li a:hover::after {
   display: none;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5829fcc70d7f348f632551f6c19ee79609dd20f8
 .section {
   background: linear-gradient(135deg, #e0f0ff, #ffffff);
   padding-top: 100px;
@@ -155,10 +151,6 @@ button {
   border: 5px solid var(--primary);
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5829fcc70d7f348f632551f6c19ee79609dd20f8
 section {
   padding: 60px 10%;
   text-align: center;
@@ -187,10 +179,6 @@ h2 {
   margin-bottom: 0.5rem;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5829fcc70d7f348f632551f6c19ee79609dd20f8
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -226,10 +214,6 @@ h2 {
   background: #0056b3;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5829fcc70d7f348f632551f6c19ee79609dd20f8
 footer {
   background: #1f2937;
   color: var(--white);
@@ -237,10 +221,6 @@ footer {
   text-align: center;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 5829fcc70d7f348f632551f6c19ee79609dd20f8
 @media (max-width: 768px) {
   ul {
     position: absolute;
